@@ -24,10 +24,7 @@
 <br>
 <br>
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://th.bing.com/th/id/OIP.TVbUTELl9ogHy5i4fS9tBQHaE7?rs=1&pid=ImgDetMain" alt="Photo 1" width="20%" maxWidth="100px" height="100px">
-  <img src="https://th.bing.com/th/id/OIP.TVbUTELl9ogHy5i4fS9tBQHaE7?rs=1&pid=ImgDetMain" alt="Photo 2" width="20%" maxWidth="100px" height="100px">
-  <img src="https://th.bing.com/th/id/OIP.TVbUTELl9ogHy5i4fS9tBQHaE7?rs=1&pid=ImgDetMain" alt="Photo 3" width="20%" maxWidth="100px" height="100px">
-  <img src="https://th.bing.com/th/id/OIP.TVbUTELl9ogHy5i4fS9tBQHaE7?rs=1&pid=ImgDetMain" alt="Photo 4" width="20%" maxWidth="100px" height="100px">
+  <img src="https://t4.ftcdn.net/jpg/04/59/29/95/360_F_459299590_uveVVzXIfZeGEA6xyAzFvU0OymhEhlZK.jpg" alt="Photo 4" height="70%" 
 </div>
 
 <h2 align="center">Instructions</h2>
