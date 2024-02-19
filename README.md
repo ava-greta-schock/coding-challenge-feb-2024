@@ -24,7 +24,7 @@
 <br>
 <br>
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://t4.ftcdn.net/jpg/04/59/29/95/360_F_459299590_uveVVzXIfZeGEA6xyAzFvU0OymhEhlZK.jpg" alt="Photo 4" height="70%" 
+  <img src="https://t4.ftcdn.net/jpg/04/59/29/95/360_F_459299590_uveVVzXIfZeGEA6xyAzFvU0OymhEhlZK.jpg" alt="Photo 4" height="70%" />
 </div>
 
 <h2 align="center">Instructions</h2>
