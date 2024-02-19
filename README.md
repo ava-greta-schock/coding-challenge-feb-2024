@@ -21,28 +21,28 @@
   <!-- Typing SVG by DenverCoder1 - [https://github.com/DenverCoder1/readme-typing-svg](https://readme-typing-svg.demolab.com/demo/) -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&random=false&width=500&lines=Your+mission%2C+should+you;+choose+to+accept+it+.+.+.;Black+History+Month+Fact+App." alt="Typing SVG" /></a>
 </p>
-<br>
-<br>
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://t4.ftcdn.net/jpg/04/59/29/95/360_F_459299590_uveVVzXIfZeGEA6xyAzFvU0OymhEhlZK.jpg" alt="Photo 4" height="70%" />
+  <img src="https://t4.ftcdn.net/jpg/04/59/29/95/360_F_459299590_uveVVzXIfZeGEA6xyAzFvU0OymhEhlZK.jpg" alt="Photo 4" height="40%" />
 </div>
 
 <h2 align="center">Instructions</h2>
-<div>Reformat here ---> if the idea is that we are giving a loser outline of what needs to be achieved, how will we relay that info?</div>
+
+The purpose of February's Coding Challenge is to familiarize yourself with GitHub's Copilot Tool. Reach out to [Andrew Roubin](mailto:andrew.roubin@avanade.com).to be added to the [Avanade-Region-USWest](https://github.com/Avanade-Region-USWest) group in order to gain access to Copilot.
+
+1. Start in the server/index.js file and follow the instructions to create your backend structure using Copilot.
+
+2. Once you have completed Step 1, continue to client/index.js and follow the instructions to create your frontend using Copilot.
+
+3. If you have not done so already, connect your frontend to your backend to create a fullstack application. At this point, you should have a working Black History Month Fact Generator app. (NOTE: Here is where you can get creative. What would you like to build to better this application?)
+
+5. Fully test your application for functionality and accessibility.
+
+6. Deploy your application.
+
 
 ## Coding Resources
 
-Front-End:
-
-1. List here
-
-Back-End
-
-1. List here
-
-Databases
-
-1. List here
+Checkout this video to learn more about [GitHub Copilot's chat feature](https://youtu.be/3surPGP7_4o?si=_48gn_V5y0bzAX4F)
 
 ## Contributing
 
