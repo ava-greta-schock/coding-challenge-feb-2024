@@ -19,7 +19,7 @@
 <br>
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - [https://github.com/DenverCoder1/readme-typing-svg](https://readme-typing-svg.demolab.com/demo/) -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&random=false&width=500&lines=Your+mission%2C+should+you;+choose+to+accept+it+.+.+.;Black+History+Month+Fact+Generator." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&random=false&width=500&lines=Your+mission%2C+should+you;+choose+to+accept+it+.+.+.;Black+History+Month+Fact+App." alt="Typing SVG" /></a>
 </p>
 <br>
 <br>
