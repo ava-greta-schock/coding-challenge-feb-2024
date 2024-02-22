@@ -29,6 +29,8 @@
 
 The purpose of February's Coding Challenge is to familiarize yourself with GitHub's Copilot Tool. Reach out to [Andrew Roubin](mailto:andrew.roubin@avanade.com) to be added to the [Avanade-Region-USWest](https://github.com/Avanade-Region-USWest) group in order to gain access to Copilot.
 
+You can access the Black History Facts API [here](https://blackhistoryapi.com/docs)
+
 1. Start in the server/index.js file and follow the instructions to create your backend structure using Copilot.
 
 2. Once you have completed Step 1, continue to client/index.js and follow the instructions to create your frontend using Copilot.
